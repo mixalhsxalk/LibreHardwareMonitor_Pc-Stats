@@ -1,7 +1,4 @@
 # PC Stats Monitor  
-### Comprehensive Hardware Monitoring Dashboard  
-
-![Dashboard Preview](https://via.placeholder.com/800x400/2a2a2a/ffffff?text=PC+Stats+Monitor+Dashboard)  
 
 ---
 
