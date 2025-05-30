@@ -1,4 +1,5 @@
-# PC Stats Monitor  
+# PC Stats 
+A Libre Hardware Monitor Dashboard
 
 ---
 
