@@ -25,19 +25,23 @@ set VBS_TARGET="C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\Run
 :: STEP 1 - Check Python
 where python >nul 2>&1
 if errorlevel 1 (
-    echo [!] Python not found on your system.
+    echo [!] Python was not found on your system.
     echo.
 
     choice /m "Have you already installed Python 3.10.11 manually"
     if errorlevel 2 (
         echo Opening download page for Python 3.10.11...
         start https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe
-        echo After installation completes, this script will restart.
+        echo.
+        echo Please:
+        echo   1. Complete the Python installation (check "Add Python to PATH").
+        echo   2. Close the Python installer completely.
+        echo   3. Rerun this setup script manually: %~nx0
+        echo.
         pause
-        start "" "%~f0"
         exit /b
     ) else (
-        echo Proceeding assuming Python is now installed and added to PATH...
+        echo Proceeding assuming Python is now installed and in PATH...
     )
 ) else (
     echo Python found.
