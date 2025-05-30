@@ -48,7 +48,7 @@ if exist "%INSTALL_DIR%" (
 timeout /t 2 >nul
 
 :: Step 3: Delete VBS startup launcher
-set "VBS_FILE=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\PcStats_hidden.vbs"
+set "VBS_FILE=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\Run_PcStats_Hidden.lnk"
 if exist "%VBS_FILE%" (
     echo [*] Removing startup launcher: "%VBS_FILE%"...
     del /f /q "%VBS_FILE%"
