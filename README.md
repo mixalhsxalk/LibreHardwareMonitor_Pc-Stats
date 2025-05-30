@@ -6,7 +6,7 @@
 ---
 
 ## 📌 Overview  
-**PC Stats Monitor** is a professional, real-time hardware monitoring solution that provides detailed insights into your system's performance. Built with Django and leveraging **LibreHardwareMonitor**, it delivers a clean, web-based dashboard accessible from any device on your local network.  
+**PC Stats Monitor** is a real-time hardware monitoring solution that provides detailed insights into your system's performance. Built with Django and leveraging **LibreHardwareMonitor**, it delivers a clean, web-based dashboard accessible from any device on your local network.  
 
 ### 🔍 Key Features  
 ✅ **Real-time monitoring** of CPU, GPU, RAM, disk, and network usage  
