@@ -1,5 +1,0 @@
-Django
-psutil
-requests
-channels
-daphne
