@@ -103,8 +103,8 @@ timeout /t 2 >nul
 :: STEP 5 - Configure LibreHardwareMonitor
 echo.
 echo [*] Please configure Libre Hardware Monitor:
-echo     -Open Libre Hardware Monitor and go to Options And Enable [x] Start Minimized
-echo     -Open Libre Hardware Monitor and go to Options / Remote Web Server / Interface-Port and check if the Port is 8085
+echo     -Open Libre Hardware Monitor and go to Options. Then Enable [x] Start Minimized and [x] Run on Windows Startup.
+echo     -Open Libre Hardware Monitor and go to Options / Remote Web Server / Interface-Port and check if the Port is 8085.
 echo     -Open Libre Hardware Monitor and go to Options / Remote Web Server and Enable [x] Run
 echo.
 pause
