@@ -7,7 +7,7 @@ A Libre Hardware Monitor Dashboard
 **PC Stats Monitor** is a real-time hardware monitoring solution that provides detailed insights into your system's performance. Built with Django and leveraging **LibreHardwareMonitor**, it delivers a clean, web-based dashboard accessible from any device on your local network.  
 
 ### 🔍 Key Features  
-✅ **Real-time monitoring** of CPU, GPU, RAM, disk, and network usage  
+✅ **Real-time monitoring** of CPU, GPU, RAM, Disk and Network Usage  
 ✅ **Temperature & power tracking** for critical components  
 ✅ **Historical max values** to track peak performance  
 ✅ **Responsive & customizable UI** with interactive charts  
