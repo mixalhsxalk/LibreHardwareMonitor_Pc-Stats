@@ -98,6 +98,8 @@ Your support helps keep this project **free and actively maintained!**
 
 **Enjoy monitoring your system with ease!** 🚀  
 
-![screencapture-192-168-2-50-8046-2025-06-02-22_49_43](https://github.com/user-attachments/assets/d201cee8-7a02-4e0c-86b9-49829002d203)
-![screencapture-192-168-2-50-8046-2025-06-02-22_49_19](https://github.com/user-attachments/assets/a6b257ee-3792-4009-9047-c8c769f3c9e6)
-![screencapture-192-168-2-10-8046-2025-06-02-22_52_23](https://github.com/user-attachments/assets/3aafbc09-bcc1-4bca-b8ff-ecff15a3462c)
+
+![screencapture-192-168-2-10-8046-2025-06-02-22_55_15](https://github.com/user-attachments/assets/f50fb785-76fd-4eaf-ba46-663c2605f1e5)
+![screencapture-192-168-2-50-8046-2025-06-02-22_49_43](https://github.com/user-attachments/assets/83b8f1c4-804b-41d7-ba6a-e4513c27749e)
+![screencapture-192-168-2-50-8046-2025-06-02-22_49_19](https://github.com/user-attachments/assets/3fe61039-4549-4894-9983-b32ef697b35c)
+![screencapture-192-168-2-10-8046-2025-06-02-22_52_23](https://github.com/user-attachments/assets/5101cb46-89e0-43ee-8aed-f0a82c3aea29)
